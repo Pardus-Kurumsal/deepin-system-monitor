@@ -1,5 +1,6 @@
-deepin-system-monitor (1.0.0) unstable; urgency=medium
+deepin-system-monitor (0.2.0-1) zesty; urgency=low
 
-  * Initial release 
+  [ shuttle ]
+  * Auto Version update.
 
- -- Deepin Packages Builder <packages@deepin.com>  Wed, 31 May 2017 15:23:52 +0800
+ -- lilongyu <leaeasy@gmail.com>  Thu, 03 Aug 2017 10:17:38 +0800
